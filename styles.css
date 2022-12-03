@@ -1,0 +1,15 @@
+h1{
+    background-color: black;
+}
+h2{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+h3{
+    background-color: DodgerBlue;
+    color: black;
+    text-align: right;
+    text-decoration: underline;
+}
